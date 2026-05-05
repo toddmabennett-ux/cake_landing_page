@@ -163,5 +163,13 @@ main figcaption{
     .opening-times table{
         width: 90%;
     }
+    .header-info{
+        position: static;
+        text-align: center;
+        margin-top: 150px;
+    }
+    header{
+        height: 260px;
+    }
 
 }
